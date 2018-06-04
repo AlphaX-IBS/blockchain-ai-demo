@@ -58,4 +58,10 @@ Open your browser and enter `http://localhost:3000` will give you the pet-shop p
 6. Testing  
 As we're listening for `allEvents` in `app.js`, adopt some pets and it should display the transaction info on the console.
 
+### Debugging
+Block-chain do not allow real-time debugging, instead, you can debug a completed transaction. Follow this guide here for more details:  
+[How to debug Ethereum transactions](http://truffleframework.com/docs/getting_started/debugging)  
+[More examples](http://truffleframework.com/tutorials/debugging-a-smart-contract#debugging-errors)
+
+
 
