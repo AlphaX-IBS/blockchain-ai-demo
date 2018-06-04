@@ -28,7 +28,7 @@ This sample extends the pet-shop by hooking Nodejs's Express module into it
    Notice the _main_ has changed to `app.js` which was created as our Node application's entry point
 
 2. Execute `npm install`  
-This will install Express, truffle-contract & web3 defined in dependencies
+This will install Express, truffle-contract & web3 defined in dependencies   
 _*note: web3 must be version 0.2x.x, not 1.0.0@beta, truffle-contract doesn't work well with beta version*_
 
 3. Start your local blockchain (ganache, geth...)  
