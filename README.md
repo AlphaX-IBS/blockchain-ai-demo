@@ -1,4 +1,4 @@
-# D.App emo
+# D.App Demo
 ## Ethereum Pet-shop with Truffle, Nodejs Express
 
 ### Pre-requisite
